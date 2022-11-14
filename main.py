@@ -1,0 +1,1 @@
+print("bul gul satatin magazin!!!")
